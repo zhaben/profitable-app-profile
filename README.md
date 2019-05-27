@@ -17,7 +17,7 @@ I recommended creating an app based on a popular book that contains a feature fo
 
 Here are a few next steps that I would take if I had more time for further exploration:
 - I could analyze the frequency table for the Genre column of the Google Play data set, and see whether I can find useful patterns.
-- If I assume that I could also make revenue via in-app purchases and subscriptions, and I could try to find out which genres users seem to like the most — I could examine app ratings here.
+- If I assume that I could also make revenue via in-app purchases and subscriptions, I could try to find out which genres users seem to like the most and examine app ratings.
 
 
 Challenges:
