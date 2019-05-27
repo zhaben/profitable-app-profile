@@ -10,7 +10,7 @@ In this project, I went through a complete data science workflow:
 
 4. I analyzed the cleaned data.
 
-In this project, I analyzed data about the App Store and Google Play mobile apps with the goal of recommending and app profile that can be profitable for both markets. I concluded that taking a popular book (perhaps a more recent book) and turning it into an app could be profitable for both the Google Play and the App Store markets.
+In this project, I analyzed data about the App Store and Google Play mobile apps with the goal of recommending an app profile that can be profitable for both markets. I concluded that taking a popular book (perhaps a more recent book) and turning it into an app could be profitable for both the Google Play and the App Store markets.
 
 I would recommend creating an app based on a popular book that contains a feature for learning more about the critial and interesting points in the book with information pulled from popular sources across the web, daily quotes from the book, an audio version of the book, quizzes on the book, or a forum where people can discuss the book.
 
