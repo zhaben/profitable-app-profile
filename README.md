@@ -2,7 +2,7 @@
 
 In this project, I went through a complete data science workflow:
 
-1. I started by clarifying the goal of our project.
+1. I started by clarifying the goal of this project.
 
 2. I collected relevant data.
 
