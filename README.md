@@ -12,10 +12,10 @@ In this project, I went through a complete data science workflow:
 
 In this project, I analyzed data about the App Store and Google Play mobile apps with the goal of recommending an app profile that can be profitable for both markets. I concluded that taking a popular book (perhaps a more recent book) and turning it into an app could be profitable for both the Google Play and the App Store markets.
 
-I would recommend creating an app based on a popular book that contains a feature for learning more about the critial and interesting points in the book with information pulled from popular sources across the web, daily quotes from the book, an audio version of the book, quizzes on the book, or a forum where people can discuss the book.
+I recommended creating an app based on a popular book that contains a feature for learning more about the critial and interesting points in the book with information pulled from popular sources across the web, daily quotes from the book, an audio version of the book, quizzes on the book, or a forum where people can discuss the book.
 
 
-Here are a few next steps for further exploration:
+Here are a few next steps that I would take if I had more time for further exploration:
 - I could analyze the frequency table for the Genre column of the Google Play data set, and see whether I can find useful patterns.
 - If I assume that I could also make revenue via in-app purchases and subscriptions, and I could try to find out which genres users seem to like the most — I could examine app ratings here.
 
