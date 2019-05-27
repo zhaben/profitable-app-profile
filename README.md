@@ -2,10 +2,13 @@
 
 In this project, I went through a complete data science workflow:
 
-I started by clarifying the goal of our project.
-I collected relevant data.
-I cleaned the data to prepare it for analysis.
-I analyzed the cleaned data.
+1. I started by clarifying the goal of our project.
+
+2. I collected relevant data.
+
+3. I cleaned the data to prepare it for analysis.
+
+4. I analyzed the cleaned data.
 
 In this project, I analyzed data about the App Store and Google Play mobile apps with the goal of recommending and app profile that can be profitable for both markets. I concluded that taking a popular book (perhaps a more recent book) and turning it into an app could be profitable for both the Google Play and the App Store markets.
 
