@@ -21,6 +21,7 @@ Here are a few next steps that I would take if I had more time for further explo
 
 
 Challenges:
+
 -Doing additional research on Kaggle forums to see other people's complaints about wrong, missing, and duplicate data
 
 -Removing superfluous data that wouldn't help me with my research questions, like non-English apps and paid apps.
