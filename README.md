@@ -22,8 +22,13 @@ Here are a few next steps that I would take if I had more time for further explo
 
 Challenges:
 -Doing additional research on Kaggle forums to see other people's complaints about wrong, missing, and duplicate data
+
 -Removing superfluous data that wouldn't help me with my research questions, like non-English apps and paid apps.
+
 -Finding a proxy for number of users in both the App Store and Google Play. Since I didn't have data for that, I had to use the number of ratings and installs as a proxy
+
 -Handling the number of installs data for Google Play
+
 -Distinguishing categories of which the average number installs were heavily skewed by extremely popular apps
+
 -Finding a category that was not heavily skewed but still popular enough to be profitable
