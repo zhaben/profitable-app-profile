@@ -1,3 +1,6 @@
+Note: Sometimes Jupyter Notebook files do not render on Github, paste the link in nbviewer if you cannot open the .ipynb file.
+https://nbviewer.jupyter.org/
+-----
 # profitable-app-profile
 
 In this project, I went through a complete data science workflow:
